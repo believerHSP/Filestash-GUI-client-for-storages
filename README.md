@@ -25,7 +25,7 @@ Console: http://10.0.2.100:9001 http://127.0.0.1:9001
      Access key: dv6bgSP87A06r6PC2L8f
      Secret Key: 6hcdX6Q2fvAgoRalYMx64D21qBOv4Eoan7Jl10TU
 
-     ![Screenshot from 2024-01-09 15-08-36](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/77ef482e-9e17-4907-8490-fa2e16f064e7)
+![Screenshot from 2024-01-09 15-08-36](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/77ef482e-9e17-4907-8490-fa2e16f064e7)
 
 # 3. Now setup Filestash on local using Docker-compose as prescribed in its official doc.
      mkdir filestash && cd filestash
@@ -54,7 +54,7 @@ CONTAINER ID   IMAGE                       COMMAND                  CREATED     
 ccd99805c069   machines/filestash          "/app/filestash"         9 minutes ago   Up 9 minutes   0.0.0.0:8334->8334/tcp, :::8334->8334/tcp   filestash
 
 # 4. Access the GUI & set S3 backend  and local for testing.
-     ![Screenshot from 2024-01-09 14-11-42](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/3c8d5d51-06e4-4578-9f5b-9a32b5a7a90f)
+![Screenshot from 2024-01-09 14-11-42](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/3c8d5d51-06e4-4578-9f5b-9a32b5a7a90f)
 
 ![Screenshot from 2024-01-09 14-54-32](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/ae9b2c83-befc-4cab-b585-a7878b81231a)
 
