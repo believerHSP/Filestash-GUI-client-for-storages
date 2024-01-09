@@ -64,6 +64,9 @@ For S3 backend:
 
 ![Screenshot from 2024-01-09 15-28-26](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/0833df42-612e-47d9-a312-f94f4f242454)
 
-For Local Storage:
+For Local Storage: [Workiing smoothly]
 
+![Screenshot from 2024-01-09 16-24-01](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/8eec7897-fbbc-4bb7-ab30-b84f03ed155e)
+
+![Screenshot from 2024-01-09 16-26-50](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/bb3013eb-215d-46cf-a227-3a31345ea5ba)
 
