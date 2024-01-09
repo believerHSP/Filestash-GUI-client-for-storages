@@ -1,0 +1,1 @@
+# Filestash-GUI-client-for-storages
