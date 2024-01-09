@@ -58,4 +58,14 @@ ccd99805c069   machines/filestash          "/app/filestash"         9 minutes ag
 
 ![Screenshot from 2024-01-09 14-54-32](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/ae9b2c83-befc-4cab-b585-a7878b81231a)
 
+# 5. Then Without the authentication setup; I just wanted to check whether mY GUI client Filestash is connecting to MinIO or not.
 
+For S3 backend: 
+
+![Screenshot from 2024-01-09 15-28-26](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/0833df42-612e-47d9-a312-f94f4f242454)
+
+For Local Storage:
+
+![Screenshot from 2024-01-09 14-57-08](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/bfd5fd13-b415-4738-8ca5-dd1cec822067)
+
+![Screenshot from 2024-01-09 14-57-13](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/735add9c-a49e-49f1-a2b6-1efc1f800f57)
