@@ -70,3 +70,9 @@ For Local Storage: [Workiing smoothly]
 
 ![Screenshot from 2024-01-09 16-26-50](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/bb3013eb-215d-46cf-a227-3a31345ea5ba)
 
+
+
+# Resolution: 
+The above error get resolved using endpoint as http://192.168.122.1:9000 in place of 127.0.0.1:9000
+
+Understanding still needs to be developed about the modification and resolution.
