@@ -85,3 +85,19 @@ For Local Storage: [Workiing smoothly]
 The above error get resolved using endpoint as http://192.168.122.1:9000 in place of 127.0.0.1:9000
 
 Understanding still needs to be developed about the modification and resolution.
+
+
+
+#                                                Part 2: LDAP Authentication in free Version
+
+Authentication-Requirement: I need to configure an industry standard authentication for Filestash, In such a way that a user has access to only a specific bucket or sub-bucket.  
+In Filestash LDAP, SAML & OPENID are available, but in enterprise release.
+
+What can be possible solutions that we could Integrate with Filestash for above Authentication-requirement?
+
+**Apache** Can be used; so exploring that as of now.
+[16:06, 11/01/2024] Devakrit Bagchi Sir: apache se BASIC authentication laga sakte ho. use ldap se authenticate karwalo.
+[16:07, 11/01/2024] Devakrit Bagchi Sir: uske baad you've to configure different instances of Filestash for each user. After login the right filestash instance will be pointed to as per the Apache config.
+
+
+
