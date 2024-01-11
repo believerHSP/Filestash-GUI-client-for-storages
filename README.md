@@ -86,8 +86,9 @@ The above error get resolved using endpoint as http://192.168.122.1:9000 in plac
 
 Understanding still needs to be developed about the modification and resolution.
 
+![Screenshot from 2024-01-11 12-09-01](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/0ed87215-6919-47f9-83f4-de2aa33bfd09)
 
-
+![Screenshot from 2024-01-11 12-09-08](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/19a5d769-3de9-49ff-be47-bb39ef136b8d)
 
 
 #                                                Part 2: LDAP Authentication in free Version
@@ -96,6 +97,8 @@ Authentication-Requirement: I need to configure an industry standard authenticat
 In Filestash LDAP, SAML & OPENID are available, but in enterprise release.
 
 What can be possible solutions that we could Integrate with Filestash for above Authentication-requirement?
+
+![Screenshot from 2024-01-11 15-07-14](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/250ebbdc-9eeb-41e6-9fee-31d4352f326f)
 
 
 **Apache** Can be used; so exploring that as of now.
