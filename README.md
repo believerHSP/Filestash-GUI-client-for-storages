@@ -21,6 +21,15 @@ Status:         1 Online, 0 Offline.
 S3-API: http://10.0.2.100:9000  http://127.0.0.1:9000     
 Console: http://10.0.2.100:9001 http://127.0.0.1:9001
 
+
+# We can a filestash using Docker CLI as well:
+     You can also use the official filestash image from the docker hub and run the container using the docker CLI instead of            docker compose.
+     >> docker pull machines/filestash
+     >>  docker run -itd  -p 8334:8334 -v $(pwd)/filestash:/app/data/state/ --name filestash docker.io/machines/filestash
+
+     After running the container refer the following official doc for setting up the filestash with minio s3 bucket
+     https://www.filestash.app/docs/install-and-upgrade/
+
 # 2. Created test buckets inside MinIO and created an access key also.
      Access key: dv6bgSP87A06r6PC2L8f
      Secret Key: 6hcdX6Q2fvAgoRalYMx64D21qBOv4Eoan7Jl10TU
