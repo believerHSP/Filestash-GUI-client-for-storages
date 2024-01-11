@@ -88,12 +88,15 @@ Understanding still needs to be developed about the modification and resolution.
 
 
 
+
+
 #                                                Part 2: LDAP Authentication in free Version
 
 Authentication-Requirement: I need to configure an industry standard authentication for Filestash, In such a way that a user has access to only a specific bucket or sub-bucket.  
 In Filestash LDAP, SAML & OPENID are available, but in enterprise release.
 
 What can be possible solutions that we could Integrate with Filestash for above Authentication-requirement?
+
 
 **Apache** Can be used; so exploring that as of now.
 [16:06, 11/01/2024] Devakrit Bagchi Sir: apache se BASIC authentication laga sakte ho. use ldap se authenticate karwalo.
