@@ -101,9 +101,11 @@ What can be possible solutions that we could Integrate with Filestash for above 
 ![Screenshot from 2024-01-11 15-07-14](https://github.com/believerHSP/Filestash-GUI-client-for-storages/assets/101576376/250ebbdc-9eeb-41e6-9fee-31d4352f326f)
 
 
-**Apache** Can be used; so exploring that as of now.
+**Apache** Can be used; so exploring that as of now.  **HTPASSWD**
 [16:06, 11/01/2024] Devakrit Bagchi Sir: apache se BASIC authentication laga sakte ho. use ldap se authenticate karwalo.
 [16:07, 11/01/2024] Devakrit Bagchi Sir: uske baad you've to configure different instances of Filestash for each user. After login the right filestash instance will be pointed to as per the Apache config.
+
+It worked: https://www.cyberciti.biz/faq/create-update-user-authentication-files/
 
 
 
