@@ -119,5 +119,11 @@ It worked: https://www.cyberciti.biz/faq/create-update-user-authentication-files
 	https://www.filestash.app/2023/03/01/connect-to-s3-with-username-and-password/
 	https://www.filestash.app/2021/09/12/use-role-in-aws-s3/
 
-3. 
+
+=========================================================================================
+
+Solution: 
+
+create policies and user in object storage and assign them policies.
+connect based on the user access keys.
 
