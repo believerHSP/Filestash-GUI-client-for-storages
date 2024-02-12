@@ -109,6 +109,15 @@ It worked: https://www.cyberciti.biz/faq/create-update-user-authentication-files
 
 
 =============================================================================================================================
+--Google_Search--
+--------------------------------------------------------------------------------------
+1. "Integrating Filestash user authentication with Minio buckets"
+	https://www.filestash.app/docs/plugin/
 
-See frontend code !
+
+2. How to connect to S3 using a username and password?
+	https://www.filestash.app/2023/03/01/connect-to-s3-with-username-and-password/
+	https://www.filestash.app/2021/09/12/use-role-in-aws-s3/
+
+3. 
 
