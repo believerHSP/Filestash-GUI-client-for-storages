@@ -127,3 +127,4 @@ Solution:
 create policies and user in object storage and assign them policies.
 connect based on the user access keys.
 
+## Learning: Always know the meaning & significance of each keyword in any task
